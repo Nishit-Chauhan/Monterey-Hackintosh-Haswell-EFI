@@ -8,7 +8,7 @@
 | Graphics | Intel HD 4600               |
 | Audio          | Realtek ALC892 audio (ALCID=1)            |
 
-![hackintosh desktop] https://i.imgur.com/cvzSqjp.png
+![hackintosh desktop]https://i.imgur.com/cvzSqjp.png
 ## Improvements
 - This version was prepared using OpenCore 0.7.9 for MacOS Monterey.
 
