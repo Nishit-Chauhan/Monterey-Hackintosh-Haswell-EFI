@@ -1,4 +1,4 @@
-# Intel Core i5-4670 - Monterey Hackintosh
+# Intel Core i5-4670 - Monterey Hackintosh (Opencore 0.7.9)
 ## Configuration
 
 | Specifications | Details                                                  |
